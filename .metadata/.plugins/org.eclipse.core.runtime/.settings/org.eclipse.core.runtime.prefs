@@ -1,0 +1,3 @@
+content-types/org.eclipse.core.runtime.text/file-extensions=module,yml
+content-types/org.eclipse.core.runtime.text/file-names=*.info.yml
+eclipse.preferences.version=1

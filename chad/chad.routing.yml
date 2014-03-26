@@ -1,0 +1,7 @@
+example.content:
+  path: '/chad'
+  defaults:
+    _content: '\Drupal\chad\Controller\ChadController::chadPage'
+    _title: 'Hello'
+  requirements:
+    _permission: 'access content'
